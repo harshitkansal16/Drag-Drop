@@ -1,0 +1,35 @@
+.wrapper {
+    text-align: center;
+    padding: 2em;
+    a {
+      padding: 4px 0px 0px 0px;
+      width: 250px;
+      display: inline-block;
+      text-align: center;
+      border-radius: 15px;
+      min-height: 30px;
+      text-decoration: none;
+      color: #fff;
+      background: #26aa1a;
+    }
+    .change {
+      min-height: 30px;
+      min-width: 100px;
+      margin: 0em 1em 0em 0em;
+      height: 50px;
+  
+      margin: 8px 0px 0px 0px;
+      label {
+        background: #099dff;
+        min-width: 250px;
+        display: inline-block;
+        text-align: center;
+        padding: 6px 0px 6px 0px;
+        color: #fff;
+        border-radius: 30px;
+        font-size: 15px;
+        cursor: pointer;
+      }
+    }
+  }
+  
